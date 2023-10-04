@@ -366,5 +366,12 @@ public class DatabaseHelper extends SQLiteOpenHelper{
 
 ## OUTPUT:
 
+![Screenshot (224)](https://github.com/Dharshini-DS/Ex_01_Advanced_SQLITE/assets/93427345/97f95fdf-5c8f-43c1-b67b-4250f1cdaaa0)
+
+![Screenshot (226)](https://github.com/Dharshini-DS/Ex_01_Advanced_SQLITE/assets/93427345/089c7183-8657-4e2c-af95-2cc0b382af94)
+
+![Screenshot (227)](https://github.com/Dharshini-DS/Ex_01_Advanced_SQLITE/assets/93427345/a4b6c105-f1a9-47b4-81cd-fcfa51f1de90)
+
+
 ## RESULT
 Thus a Simple Android Application create a dtatabase table and to display the database table using SQLite Database in Android Studio is developed and executed successfully.
